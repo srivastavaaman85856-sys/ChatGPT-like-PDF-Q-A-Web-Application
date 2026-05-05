@@ -49,5 +49,7 @@ Users can upload multiple PDFs, ask questions, and receive intelligent responses
 ### 1. Clone the repository
 
 ```bash
+<img width="1900" height="837" alt="image" src="https://github.com/user-attachments/assets/cfeb97bf-d3c7-4381-8a70-5632991f2401" />
+
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
